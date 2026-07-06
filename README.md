@@ -1,0 +1,2 @@
+# 8fc0cb4780ced370-cooking-recipes-email-marketin
+Built for cooking recipes professionals who are tired of building the same data integration from scratch for every project.  RESTful JSON API with comprehensive documentation and code examples. SDKs and quickstart guides for Python, JavaScript, PHP, and cURL.  ## What's Included  - Cooking Recipes Email Marketing Automation — fully configured and r
